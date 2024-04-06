@@ -1,0 +1,27 @@
+Apresentação
+O que é .NET
+Instalação do .NET
+Criando projeto
+Entendendo estrutura de um projeto c#
+Primeiro código C#
+Conceito de variável
+Declaração de variaveis e tipos
+Outras formas de declaração
+Constantes
+Capturando entrada do usuário
+Operadores aritiméticos
+Condicionais teoria
+Condicionais na prática
+Operadores lógicos na teoria
+Operadores lógicos na prática
+Funções
+Retorno de funções
+Array
+Switch
+Enum
+Enum com Switch
+While
+Do While
+Foreach
+For
+Escopo
